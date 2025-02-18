@@ -1,2 +1,7 @@
 # ripplex-research
-Public repository that holds public research work @ RippleX.
+
+Coming soon: a public repository for research work @ RippleX.
+
+![under_construction](under_construction.webp)
+
+
